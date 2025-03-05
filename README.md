@@ -1,6 +1,8 @@
 # SLLM
 SLLM project
 
+.\ui\Scripts\activate => 내가 편할려고 적어놓은 가상환경임.
+
 시작하는 방법
 docker에 chroma DB 를 올려야함
 https://velog.io/@cathx618/Docker%EC%97%90%EC%84%9C-ChromaDB-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 > 이 사이트 참고
